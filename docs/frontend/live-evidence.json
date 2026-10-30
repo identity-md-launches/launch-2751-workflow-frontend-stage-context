@@ -1,0 +1,52 @@
+{
+  "checkedAt": "2026-10-30T22:21:42.125Z",
+  "source": "https://ethereum-sepolia-rpc.publicnode.com",
+  "chainId": 11155111,
+  "block": "12029622",
+  "address": "0x5d6a31fb18e79f1c2fce250d9555636578c4b939",
+  "codeBytes": 15200,
+  "values": {
+    "activated": false,
+    "owner": "0x2BBAD01F50EAE735F95050b62E3a7d0c4Cf8f6Ca",
+    "pendingOwner": "0x0000000000000000000000000000000000000000",
+    "strategist": "0x2BBAD01F50EAE735F95050b62E3a7d0c4Cf8f6Ca",
+    "CORE": "0x74665dAecA35A2303e767E76a2FF1FB6F93e119f",
+    "MINING": "0x3beE588fC20dE788Bac17d33b41Da7346cb27EC4",
+    "NFT": "0x0eAF3E0d40A0a8E5a6Ac030b2459E9FB0B7905c6",
+    "MINING_IMPLEMENTATION": "0x08890b360C65FD878344Bf6e23d1c36358433B4E",
+    "rewardToken": "0x0000000000000000000000000000000000000000",
+    "totalSupply": "0",
+    "totalWeight": "0",
+    "liveTokenIds": [],
+    "totalRewardsReceived": "0",
+    "totalRewardsPaid": "0"
+  },
+  "graph": {
+    "miningVersion": "6",
+    "coreVersion": "3",
+    "implementation": "0x08890b360C65FD878344Bf6e23d1c36358433B4E",
+    "deploymentIdentity": [
+      "0x08890b360C65FD878344Bf6e23d1c36358433B4E",
+      "0x7369D930f8Dfb7a6657578EdA5906d3472E4Ac9a"
+    ],
+    "coreState": {
+      "settledThroughRound": "1973",
+      "cumulativeWork": "148986",
+      "cumulativeBlockUnits": "13095604188187",
+      "blockHeight": "13095",
+      "blockProgress": "604188187",
+      "workPerThousandBlocks": 11266,
+      "authorizationNonce": "1657",
+      "paused": false
+    },
+    "checkpointStatus": [
+      false,
+      "1974",
+      false
+    ],
+    "publicMinted": 8888,
+    "nftSupply": "6910"
+  },
+  "transactionsBroadcast": 0,
+  "scope": "Read-only snapshot; frontend interaction tests use separate synthetic wallet/RPC fixtures."
+}

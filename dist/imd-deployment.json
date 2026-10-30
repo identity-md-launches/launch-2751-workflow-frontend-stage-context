@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "launchId": "efd3b7ae-dd76-496a-8943-3374ec9a6cb2",
+  "chainId": 11155111,
+  "sourceCommit": "9298b65d1bd1955995dda9ba1c83aeca814ccfc7",
+  "attestationHash": "d516020110352dce9374cf16fdc9b6ab4b66ae4b1585286547a78274ebd22207",
+  "contracts": [
+    {
+      "name": "HamsterMiningReserve",
+      "address": "0x5d6a31fb18e79f1c2fce250d9555636578c4b939",
+      "abiHash": "510730ad5e41e5456b184f137f785a0e3f07363ef6a1b62b4feeacb76e37b23c",
+      "abiPath": "abi/HamsterMiningReserve.json"
+    }
+  ],
+  "network": {
+    "chainId": 11155111,
+    "name": "Sepolia",
+    "testnet": true,
+    "rpcUrls": [
+      "https://ethereum-sepolia-rpc.publicnode.com",
+      "https://rpc.sepolia.ethpandaops.io",
+      "https://sepolia.rpc.sentio.xyz"
+    ],
+    "explorer": "https://sepolia.etherscan.io",
+    "nativeCurrency": {
+      "name": "Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "faucets": [
+      "https://cloud.google.com/application/web3/faucet/ethereum/sepolia",
+      "https://www.alchemy.com/faucets/ethereum-sepolia"
+    ],
+    "uniswapV4": {
+      "poolManager": "0xe03a1074c86cfedd5c142c4f04f1a1536e203543",
+      "universalRouter": "0x3a9d48ab9751398bbfa63ad67599bb04e4bdf98b",
+      "quoter": "0x61b3f2011a92d183c7dbadbda940a7555ccf9227",
+      "stateView": "0xe1dd9c3fa50edb962e442f60dfbc432e24537e4c",
+      "positionManager": "0x429ba70129df741b2ca2a85bc3a2a3328e5c09b4",
+      "permit2": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+    }
+  },
+  "walletAddChain": {
+    "chainId": "0xaa36a7",
+    "chainName": "Sepolia",
+    "rpcUrls": [
+      "https://ethereum-sepolia-rpc.publicnode.com",
+      "https://rpc.sepolia.ethpandaops.io",
+      "https://sepolia.rpc.sentio.xyz"
+    ],
+    "nativeCurrency": {
+      "name": "Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorerUrls": [
+      "https://sepolia.etherscan.io"
+    ]
+  },
+  "assets": [
+    {
+      "path": "abi/HamsterMiningReserve.json",
+      "sha256": "7ef2b79821f97d5d5b28ee37265a52187b27b17be69fc66777723e5e87f5b9fa"
+    },
+    {
+      "path": "abi/IGraphACore.json",
+      "sha256": "6275631be88a7633ade224540b4f72f8329679f5e9c3ae9bcb05d4bac4af347d"
+    },
+    {
+      "path": "abi/IGraphAMining.json",
+      "sha256": "41b7f4b6c5cbc2151f6d08b25c4b811790dc9aa3fd1398cce012c0ffdd89a2d5"
+    },
+    {
+      "path": "abi/IGraphANFT.json",
+      "sha256": "ad862a557a61b7627c367cf883fe5d324e79b08d2e9fe8844b68678ba66e6435"
+    },
+    {
+      "path": "assets/ccip-CYZ-_fVc.js",
+      "sha256": "689732fcda3e60af3efe5c6f2d06d756cd22ea06ead66b37483c1e4ab7e8a9ec"
+    },
+    {
+      "path": "assets/clsx.m-DHulAg21.js",
+      "sha256": "fb137b760bacfb05fc2eacfee16f7954a01bd739c1846a2efd5ea53e24f454e1"
+    },
+    {
+      "path": "assets/index-BFAlG67s.js",
+      "sha256": "2dbc8b1be865e8e9e611dcbfabc7f2b20f9a5eb310635ec84b778d50fb248297"
+    },
+    {
+      "path": "assets/index-BJaUgR00.css",
+      "sha256": "d1858d2840a064102d3c10ddae9f8f89b454598e1874a9b64f1eb40fd30e20c6"
+    },
+    {
+      "path": "assets/index-CIgYmh1c.js",
+      "sha256": "61aa7a0c99fb858b99153ef8c6b5bcf9914130373815246a4729ddc406ac7a88"
+    },
+    {
+      "path": "assets/index-Da2HDn_f.js",
+      "sha256": "161ac5468c1612f6be1e89355de227c8bb2c45a3ee8b8ec32f8c9f12e2dcc585"
+    },
+    {
+      "path": "favicon.svg",
+      "sha256": "eaa5f38c13f008d0f673fb149f8e654afbe490e7d04b57ea877284502f681225"
+    },
+    {
+      "path": "index.html",
+      "sha256": "d32ec13a08d11aaf26b6cc7777536d5918c89f1812c14c83151869c7463e3606"
+    },
+    {
+      "path": "share.png",
+      "sha256": "7dfe0a42a8f30035987310a84410b8ac3df96c4e61ffaff57932980b9eec4078"
+    }
+  ]
+}

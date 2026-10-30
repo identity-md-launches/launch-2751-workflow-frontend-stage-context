@@ -1,0 +1,20 @@
+{
+  "sourceCommit": "9298b65d1bd1955995dda9ba1c83aeca814ccfc7",
+  "chainId": 11155111,
+  "contractSet": [
+    {
+      "name": "HamsterMiningReserve",
+      "address": "0x5d6a31fb18e79f1c2fce250d9555636578c4b939",
+      "abiHash": "510730ad5e41e5456b184f137f785a0e3f07363ef6a1b62b4feeacb76e37b23c",
+      "abiPath": "abi/HamsterMiningReserve.json"
+    }
+  ],
+  "exportManifestSha256": "dbb1552145c4362fac0ae83d9a8ca368d63188d87289b42405baefb563068c2b",
+  "assetCount": 13,
+  "assetBytes": 1538979,
+  "manifestBytes": 3681,
+  "assetInventoryVerified": true,
+  "pinnedHandoffAndAbiBytesVerified": true,
+  "workerCommitCreated": false,
+  "workerCommitLimitation": "Git staging was refused: repository metadata is read-only."
+}

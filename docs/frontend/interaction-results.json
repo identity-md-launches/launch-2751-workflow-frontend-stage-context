@@ -1,0 +1,131 @@
+{
+  "exportManifestSha256": "dbb1552145c4362fac0ae83d9a8ca368d63188d87289b42405baefb563068c2b",
+  "checks": [
+    {
+      "name": "static subpath, metadata and disconnected controls",
+      "passed": true
+    },
+    {
+      "name": "320/390/740/1440 reflow and first phone action",
+      "passed": true
+    },
+    {
+      "name": "wallet sheet keyboard close and focus return",
+      "passed": true
+    },
+    {
+      "name": "no extension connection error remains recoverable",
+      "passed": true
+    },
+    {
+      "name": "phone open-in wallets and Coinbase Smart Wallet",
+      "passed": true
+    },
+    {
+      "name": "EIP-6963 wallet discovery without duplicate generic row",
+      "passed": true
+    },
+    {
+      "name": "wrong chain and exact wallet_addEthereumChain fallback",
+      "passed": true
+    },
+    {
+      "name": "live wallet reads and owner/strategist controls",
+      "passed": true
+    },
+    {
+      "name": "invalid NFT ID has inline error and sends nothing",
+      "passed": true
+    },
+    {
+      "name": "deposit preview shows shares and permanent consent",
+      "passed": true
+    },
+    {
+      "name": "wallet rejection unlocks the NFT approval for retry",
+      "passed": true
+    },
+    {
+      "name": "per-NFT approval uses deployed reserve and fresh approval state",
+      "passed": true
+    },
+    {
+      "name": "simulation custom error prevents wallet transaction",
+      "passed": true
+    },
+    {
+      "name": "deposit minShares is nonzero and contribution confirmed",
+      "passed": true
+    },
+    {
+      "name": "harvest and claim are distinct simulated actions",
+      "passed": true
+    },
+    {
+      "name": "share transfer rejects invalid recipients then encodes decimals",
+      "passed": true
+    },
+    {
+      "name": "merge guard uses observed share supply and donor IDs",
+      "passed": true
+    },
+    {
+      "name": "checkpoint and strategist configuration controls",
+      "passed": true
+    },
+    {
+      "name": "share allowance, delegated transfer and voluntary burn controls",
+      "passed": true
+    },
+    {
+      "name": "two-step ownership proposal and cancellation",
+      "passed": true
+    },
+    {
+      "name": "long balances, full addresses and open advanced controls reflow",
+      "passed": true
+    },
+    {
+      "name": "owner sees required activation; public deposit disabled until activation",
+      "passed": true
+    },
+    {
+      "name": "Graph A failure blocks admissions while accounted claim stays available",
+      "passed": true
+    },
+    {
+      "name": "pending owner accepts, then explicit renunciation removes owner controls",
+      "passed": true
+    },
+    {
+      "name": "missing deployed code fails closed",
+      "passed": true
+    },
+    {
+      "name": "RPC failure shows unavailable values and disables signing",
+      "passed": true
+    },
+    {
+      "name": "ABI hash mismatch blocks the runtime before wallet connection",
+      "passed": true
+    },
+    {
+      "name": "guide navigation and back to reserve",
+      "passed": true
+    },
+    {
+      "name": "automated accessibility on reserve, expanded controls and wallet sheet",
+      "passed": true
+    },
+    {
+      "name": "no browser JavaScript errors or missing local resources",
+      "passed": true
+    },
+    {
+      "name": "WebKit rendered checks",
+      "passed": null,
+      "limitation": "WebKit could not launch in the available runtime. Chromium coverage completed."
+    }
+  ],
+  "errors": []
+}
